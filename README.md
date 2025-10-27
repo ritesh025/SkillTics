@@ -1,87 +1,94 @@
-# Welcome to React Router!
 
-A modern, production-ready template for building full-stack React applications using React Router.
+# SkillTics — AI-Powered Resume Analyzer
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/remix-run/react-router-templates/tree/main/default)
+SkillTics is an intelligent web application that analyzes resumes using AI to provide instant feedback, ATS scores, and improvement tips — helping users stand out in every job application.
 
-## Features
+It combines smart resume analytics with seamless user authentication and cloud storage using **Puter** — all inside a fast, modern interface.
 
-- 🚀 Server-side rendering
-- ⚡️ Hot Module Replacement (HMR)
-- 📦 Asset bundling and optimization
-- 🔄 Data loading and mutations
-- 🔒 TypeScript by default
-- 🎉 TailwindCSS for styling
-- 📖 [React Router docs](https://reactrouter.com/)
+***SkillTics*** — Smart Insights. Stronger Resumes.
 
-## Getting Started
 
-### Installation
+🔗 ***Live Site: https://skilltics-hazel.vercel.app/***
+## 🌟Features
 
-Install the dependencies:
+⭐ **AI Resume Analysis** :
+Get real-time ATS scores and improvement suggestions.
 
-```bash
-npm install
-```
+⭐ **Resume Insights** :
+Understand skill match, keyword relevance, and structure.
 
-### Development
+⭐ **Smart File Upload** :
+Upload resumes in PDF format for instant analysis.
 
-Start the development server with HMR:
+⭐ **Resume Dashboard** :
+Track your resume ratings and application performance.
 
-```bash
-npm run dev
-```
+⭐ **Smooth Animations** :
+Responsive transitions and hover effects.
 
-Your application will be available at `http://localhost:5173`.
+⭐ **Modern UI** :
+Built with React, Tailwind CSS, and Vite for speed and elegance.
 
-## Building for Production
+## 🛠️ Technologies Used
 
-Create a production build:
+❇️ **Frontend** → React (Vite + TypeScript)
 
-```bash
-npm run build
-```
+❇️ **Styling** → Tailwind CSS
 
-## Deployment
+❇️ **Routing** → React Router
 
-### Docker Deployment
+❇️ **State Management** → Zustand 
 
-To build and run using Docker:
+❇️ **Serverless Auth** → Puter js 
 
-```bash
-docker build -t my-app .
+❇️ **Icons** → Lucide React, Font awesome
 
-# Run the container
-docker run -p 3000:3000 my-app
-```
+## 🤝Contributing
 
-The containerized application can be deployed to any platform that supports Docker, including:
+We welcome contributions! If you would like to improve SkillTics, feel free to fork the repository, create a feature branch, and submit a pull request.
 
-- AWS ECS
-- Google Cloud Run
-- Azure Container Apps
-- Digital Ocean App Platform
-- Fly.io
-- Railway
+- Fork the repository
 
-### DIY Deployment
+- Create a new branch (git checkout -b feature-branch)
 
-If you're familiar with deploying Node applications, the built-in app server is production-ready.
+- Make your changes
 
-Make sure to deploy the output of `npm run build`
+- Commit your changes (git commit -am 'Add new feature')
 
-```
-├── package.json
-├── package-lock.json (or pnpm-lock.yaml, or bun.lockb)
-├── build/
-│   ├── client/    # Static assets
-│   └── server/    # Server-side code
-```
+- Push to the branch (git push origin feature-branch)
 
-## Styling
+- Create a pull request
+## 🔮Future Features
 
-This template comes with [Tailwind CSS](https://tailwindcss.com/) already configured for a simple default starting experience. You can use whatever CSS framework you prefer.
+💡AI-Powered Resume Builder
 
----
+💡Job Match Recommendations
 
-Built with ❤️ using React Router.
+💡Interview Preparation Assistant
+
+💡Real-Time Resume Comparison
+
+💡Custom Resume Templates
+## 📱Deployment
+
+Deployed on Vercel. 
+
+### 🌐*Link : https://skilltics-hazel.vercel.app/*
+## ✨Usage Guide
+
+- Upload your resume (PDF).
+
+- SkillTics processes it using AI algorithms.
+
+- You receive an ATS score, keyword match rate, and improvement feedback.
+
+- Track your performance and polish your resume to perfection.
+
+
+
+
+
+
+
+
+
